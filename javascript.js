@@ -1,0 +1,1 @@
+fetch("https://refnusa.dev/v1/wages/ump?year=2026")

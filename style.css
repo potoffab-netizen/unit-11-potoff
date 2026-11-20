@@ -4,3 +4,44 @@ body {
     color: darkgreen;
     margin: 0;
 }
+
+header {
+    background-color: #91aea1 ;
+    color: aliceblue;
+    text-align: center;
+    padding: 40px 20px;
+}
+header h1 {
+font-size: 2rem;
+margin-bottom: 10px;
+}
+header p {
+    font-size: 1.5rem;
+}
+
+main {
+    max-width: 800px;
+    margin: 10px;
+    padding: 20px;
+}
+
+main section {
+    background-color: antiquewhite;
+    padding: 50px;
+    text-align: center;
+    box-shadow: 50px;
+}
+
+button {
+    background-color: rgb(202, 194, 210);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: rgb(180, 127, 255);
+}
+
+footer {
+    text-align: center;
+}
